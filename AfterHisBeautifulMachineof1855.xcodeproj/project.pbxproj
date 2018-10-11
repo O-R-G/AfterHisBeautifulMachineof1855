@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0764E9AD2165673400DC05B7 /* AfterHisBeautifulMachineof1855.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AfterHisBeautifulMachineof1855.saver; sourceTree = BUILT_PRODUCTS_DIR; };
+		0764E9AD2165673400DC05B7 /* After His Beautiful Machine of 1855.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "After His Beautiful Machine of 1855.saver"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0764E9B02165673400DC05B7 /* AfterHisBeautifulMachineof1855View.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AfterHisBeautifulMachineof1855View.h; sourceTree = "<group>"; };
 		0764E9B22165673400DC05B7 /* AfterHisBeautifulMachineof1855View.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AfterHisBeautifulMachineof1855View.m; sourceTree = "<group>"; };
 		0764E9B42165673400DC05B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		0764E9AE2165673400DC05B7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0764E9AD2165673400DC05B7 /* AfterHisBeautifulMachineof1855.saver */,
+				0764E9AD2165673400DC05B7 /* After His Beautiful Machine of 1855.saver */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -78,9 +78,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		0764E9AC2165673400DC05B7 /* AfterHisBeautifulMachineof1855 */ = {
+		0764E9AC2165673400DC05B7 /* After His Beautiful Machine of 1855 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0764E9B72165673400DC05B7 /* Build configuration list for PBXNativeTarget "AfterHisBeautifulMachineof1855" */;
+			buildConfigurationList = 0764E9B72165673400DC05B7 /* Build configuration list for PBXNativeTarget "After His Beautiful Machine of 1855" */;
 			buildPhases = (
 				0764E9A82165673400DC05B7 /* Headers */,
 				0764E9A92165673400DC05B7 /* Sources */,
@@ -91,9 +91,9 @@
 			);
 			dependencies = (
 			);
-			name = AfterHisBeautifulMachineof1855;
+			name = "After His Beautiful Machine of 1855";
 			productName = AfterHisBeautifulMachineof1855;
-			productReference = 0764E9AD2165673400DC05B7 /* AfterHisBeautifulMachineof1855.saver */;
+			productReference = 0764E9AD2165673400DC05B7 /* After His Beautiful Machine of 1855.saver */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
@@ -122,7 +122,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0764E9AC2165673400DC05B7 /* AfterHisBeautifulMachineof1855 */,
+				0764E9AC2165673400DC05B7 /* After His Beautiful Machine of 1855 */,
 			);
 		};
 /* End PBXProject section */
@@ -271,6 +271,7 @@
 				DEVELOPMENT_TEAM = 2T5W462SEL;
 				INFOPLIST_FILE = AfterHisBeautifulMachineof1855/Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.o-r-g.AfterHisBeautifulMachineof1855";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = saver;
@@ -285,6 +286,7 @@
 				DEVELOPMENT_TEAM = 2T5W462SEL;
 				INFOPLIST_FILE = AfterHisBeautifulMachineof1855/Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.o-r-g.AfterHisBeautifulMachineof1855";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = saver;
@@ -303,7 +305,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0764E9B72165673400DC05B7 /* Build configuration list for PBXNativeTarget "AfterHisBeautifulMachineof1855" */ = {
+		0764E9B72165673400DC05B7 /* Build configuration list for PBXNativeTarget "After His Beautiful Machine of 1855" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0764E9B82165673400DC05B7 /* Debug */,
