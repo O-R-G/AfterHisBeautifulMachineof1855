@@ -2,7 +2,7 @@
 
 After His Beautiful Machine of 1855
 Designed by David Reinfurt
-Version 1.1, macOS 10.8+, 2018
+Version 1.2, 2023
 
 --
 
